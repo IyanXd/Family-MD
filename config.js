@@ -27,14 +27,14 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://neoxr-api.herokuapp.com': 'yntkts',
-  'https://api.xteam.xyz': 'apikeylu',
-  'https://melcanz.com': 'apikeylu',
-  'https://api.lolhuman.xyz': 'apikeylu',
+  'https://api.xteam.xyz': 'd37372311698ed1d',
+  'https://melcanz.com': 'elaina',
+  'https://api.lolhuman.xyz': 'Deffbotz',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.me': 'apikeylu',
-  'https://pencarikode.xyz': 'apikeylu',
+  'https://api.zeks.me': 'apivinz',
+  'https://pencarikode.xyz': 'pais',
   'https://hardianto.xyz': 'hardianto',
-  'https://leyscoders-api.herokuapp.com': 'apikeylu',
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://api.adiofficial.xyz': 'apikey lu'
 }
 
@@ -44,11 +44,11 @@ global.Intervalmsg = 1800 //detik
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/aguzfamilia"
+global.urlnya = "https://www.instagram.com/yanxd81"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
+global.phn = '+62 895-3234-13434'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
@@ -63,7 +63,7 @@ global.author = data.owner;
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy ᴀɢᴜᴢ ꜰᴀᴍɪʟɪᴀ'
+        global.colong2 = 'wạ.me/𝐲𝖆𝖓𝖓𝖐𝖓𝖙𝖑𝖑〆'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 

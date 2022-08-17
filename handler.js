@@ -23,7 +23,7 @@ module.exports = {
         if (seli > global.Intervalmsg) return console.log(new ReferenceError(`Pesan ${Intervalmsg} detik yang lalu diabaikan agar tidak nyepam`))
         
         global.namabot = await this.user.name
-        global.wm = namabot + ' ву ƒσкυѕ ι∂'
+        global.wm = namabot + ' ву wạ.me/𝐲𝖆𝖓𝖓𝖐𝖓𝖙𝖑𝖑〆'
         //console.log(JSON.stringify(m, null, 4))
         try {
             m = simple.smsg(this, m) || m
@@ -626,7 +626,7 @@ module.exports = {
                                 groupname: await this.getName(id),
                                 membercount: groupMetadata.participants.length
                             })
-                            await this.send3TemplateButtonImg(id, action === 'add' ? wel : lea, text, wm, action === 'add' ? 'selamat datang' : 'sampai jumpa', action === 'add' ? '.intro' : 'FokusID')
+                            await this.send3TemplateButtonImg(id, action === 'add' ? wel : lea, text, wm, action === 'add' ? 'Welcomee💘' : 'Good Byee😭', action === 'add' ? '.intro' : 'Dark-Md')
                         }
                     }
                 }

@@ -29,7 +29,7 @@ let handler = async (m, { conn }) => {
 ├ ${tag ? '✅' : '❌'} *Anti Tag Owner*
 ├ ${self ? '✅' : '❌'} *Mode Self*
 └────
-    `.trim())
+    `.trim(), wm, 'Menu', usedPrefix + 'menu', m)
 }
 handler.help = ['stats']
 handler.tags = ['about']

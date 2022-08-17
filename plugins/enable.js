@@ -297,7 +297,7 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
 Contoh:
 ${usedPrefix}on welcome
 ${usedPrefix}off welcome
-`.trim()
+`.trim(), wm, 'Menu', usedPrefix + 'menu', m)
       throw false
   }
   m.reply(`

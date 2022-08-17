@@ -138,7 +138,7 @@ Total inv: *${diamond + potion + sampah + makananpet}* item\n
 \n${readMore}\n
 Warn: *${warn}*
 Banned: *No*
-`.trim()
+`.trim(), wm, 'Menu', usedPrefix + 'menu', m)
     conn.reply(m.chat, str, m)
 }
 handler.help = ['inventory', 'inv']

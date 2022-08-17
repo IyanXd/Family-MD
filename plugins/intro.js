@@ -11,7 +11,8 @@ m.reply(`
 │ *Kelas      :* 
 │ *Asal         :* 
 │ *Agama    :* 
- |  *Status     :* 
+│ *Status     :* 
+│ *Note Gausa Diisi Gapapa*
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙
 `.trim()) // Tambah sendiri kalo mau
 }
